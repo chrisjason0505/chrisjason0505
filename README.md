@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cyber Security/ML](https://github.com/chrisjason0505/Meef)
 
-- 🌱 I’m currently learning **R,Grafana**
+- 🌱 I’m currently learning **Grafana,OpenCV**
 
 - 💬 Ask me about **Pandas,ML/DL**
 
