@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CJ</h1>
 <h3 align="center">A passionate computer science enthusiast</h3>
 
-- 🔭 I’m currently working on [Cyber Security/ML](https://github.com/chrisjason0505/Meef)
+- 🔭 I’m currently working on [Cyber Security/ML-DL](https://github.com/chrisjason0505/Meef)
 
 - 🌱 I’m currently learning **Grafana,OpenCV**
 
